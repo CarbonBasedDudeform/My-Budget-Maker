@@ -46,6 +46,7 @@
             this.calander.Location = new System.Drawing.Point(13, 42);
             this.calander.Name = "calander";
             this.calander.TabIndex = 0;
+            this.calander.DateSelected += new System.Windows.Forms.DateRangeEventHandler(this.calander_DateSelected);
             // 
             // totalAmount
             // 
@@ -71,6 +72,7 @@
             this.calcBtn.TabIndex = 3;
             this.calcBtn.Text = "Calc";
             this.calcBtn.UseVisualStyleBackColor = true;
+            this.calcBtn.Click += new System.EventHandler(this.calcBtn_Click);
             // 
             // calcedDailyAmountTxt
             // 
