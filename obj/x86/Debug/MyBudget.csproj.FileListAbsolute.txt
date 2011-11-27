@@ -1,0 +1,9 @@
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\bin\Debug\MyBudget.exe
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\bin\Debug\MyBudget.pdb
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\obj\x86\Debug\MyBudget.Form1.resources
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\obj\x86\Debug\MyBudget.Properties.Resources.resources
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\obj\x86\Debug\MyBudget.exe
+c:\users\dom\documents\visual studio 2010\Projects\MyBudget\MyBudget\obj\x86\Debug\MyBudget.pdb
